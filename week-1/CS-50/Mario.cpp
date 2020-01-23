@@ -11,11 +11,10 @@ int main()
         cout << "Enter the valid height : "<<endl;
         cin >> height;
     }
-    int n = height;
     int count = 1;
-    while (n--)
+    while (height--)
     {
-      for (int i = 1; i<=n ; i++)
+      for (int i = 1; i<=height ; i++)
       {
           cout <<" ";
       }
@@ -23,7 +22,7 @@ int main()
       {
           cout<<"#";
       }
-      cout <<" ";
+      cout <<"  ";
       for (int i=0; i<count ; i++)
       {
           cout<<"#";
