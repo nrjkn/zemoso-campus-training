@@ -29,5 +29,5 @@ Program Description : Write a program (in any programming language of your choic
 Create a pull request to merge the develop branch with the master branch.
 Submit the link to the pull request in an email.
 
-# WEEK 1
+# WEEK 1 (to be updated as we move forward)
 
